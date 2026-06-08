@@ -1,1 +1,14 @@
-
+[
+  {
+    "title": "ESPN",
+    "url": "https://ejemplo.com/espn.m3u8",
+    "logo": "https://ejemplo.com/espn.png",
+    "category": "Deportes"
+  },
+  {
+    "title": "TNT Sports",
+    "url": "https://ejemplo.com/tnt.m3u8",
+    "logo": "https://ejemplo.com/tnt.png",
+    "category": "Deportes"
+  }
+]
