@@ -1,1 +1,30 @@
-
+[
+  {
+    "title": "John Wick 4",
+    "poster": "",
+    "description": "John Wick vuelve para enfrentar a la Alta Mesa.",
+    "url": "https://archive.org/download/bl-4ck-ph-4nth-3r-w-4k-4nd-4-f-0r-3v-3r_202302/Jh0n.W1ck.4.C4m.mp4",
+    "genre": "Acción"
+  },
+  {
+    "title": "Super Mario Bros: La película",
+    "poster": "",
+    "description": "Mario y Luigi viajan al Reino Champiñón.",
+    "url": "https://ia601605.us.archive.org/13/items/a1owk1o2knw2j1ini/a1owk1o2knw2j1ini.mp4",
+    "genre": "Animación"
+  },
+  {
+    "title": "Creed III",
+    "poster": "",
+    "description": "Adonis Creed enfrenta un rival de su pasado.",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/...",
+    "genre": "Deportes"
+  },
+  {
+    "title": "Scream 6",
+    "poster": "",
+    "description": "Ghostface vuelve a perseguir a sus víctimas.",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/...",
+    "genre": "Terror"
+  }
+]
