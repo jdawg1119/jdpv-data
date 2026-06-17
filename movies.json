@@ -1,30 +1,72 @@
 [
   {
     "title": "John Wick 4",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
     "description": "John Wick vuelve para enfrentar a la Alta Mesa.",
-    "url": "https://archive.org/download/bl-4ck-ph-4nth-3r-w-4k-4nd-4-f-0r-3v-3r_202302/Jh0n.W1ck.4.C4m.mp4",
-    "genre": "Acción"
+    "genre": "Acción",
+    "url": "https://archive.org/download/bl-4ck-ph-4nth-3r-w-4k-4nd-4-f-0r-3v-3r_202302/Jh0n.W1ck.4.C4m.mp4"
   },
   {
     "title": "Super Mario Bros: La película",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
     "description": "Mario y Luigi viajan al Reino Champiñón.",
-    "url": "https://ia601605.us.archive.org/13/items/a1owk1o2knw2j1ini/a1owk1o2knw2j1ini.mp4",
-    "genre": "Animación"
+    "genre": "Animación",
+    "url": "https://ia601605.us.archive.org/13/items/a1owk1o2knw2j1ini/a1owk1o2knw2j1ini.mp4"
   },
   {
     "title": "Creed III",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
     "description": "Adonis Creed enfrenta un rival de su pasado.",
-    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/...",
-    "genre": "Deportes"
+    "genre": "Drama",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/"
   },
   {
     "title": "Scream 6",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
     "description": "Ghostface vuelve a perseguir a sus víctimas.",
-    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/...",
-    "genre": "Terror"
+    "genre": "Terror",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/"
+  },
+  {
+    "title": "65",
+    "poster": "https://image.tmdb.org/t/p/w500/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+    "description": "Un piloto queda varado en la Tierra hace 65 millones de años.",
+    "genre": "Ciencia Ficción",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/"
+  },
+  {
+    "title": "Winnie the Pooh: Blood and Honey",
+    "poster": "https://image.tmdb.org/t/p/w500/fNTtVbqI92abEKAgz2ynurCUne.jpg",
+    "description": "Versión de terror del clásico personaje.",
+    "genre": "Terror",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/"
+  },
+  {
+    "title": "Juego Limpio",
+    "poster": "https://image.tmdb.org/t/p/w500/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg",
+    "description": "Thriller psicológico corporativo.",
+    "genre": "Drama",
+    "url": "https://ia600505.us.archive.org/18/items/juego-limpio/Juego%20limpio.mp4"
+  },
+  {
+    "title": "El Hijo",
+    "poster": "https://image.tmdb.org/t/p/w500/4SqAO9s7M4P4iTRzjXG8G1R7z9F.jpg",
+    "description": "Drama protagonizado por Hugh Jackman.",
+    "genre": "Drama",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/"
+  },
+  {
+    "title": "La Máquina del Tiempo",
+    "poster": "https://image.tmdb.org/t/p/w500/5R0jRkYlCYwH14r2raekkUQunlsl.jpg",
+    "description": "Clásico de ciencia ficción.",
+    "genre": "Ciencia Ficción",
+    "url": "https://ia801806.us.archive.org/6/items/la-maquina-del-tiempo-1960/La%20m%C3%A1quina%20del%20tiempo%20%281960%29.mp4"
+  },
+  {
+    "title": "Godzilla vs Kong",
+    "poster": "https://image.tmdb.org/t/p/w500/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+    "description": "Dos titanes se enfrentan.",
+    "genre": "Acción",
+    "url": "https://ia902203.us.archive.org/5/items/downloadfile_20240517/downloadfile.mp4"
   }
 ]
