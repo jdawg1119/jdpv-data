@@ -1,7 +1,12 @@
 [
   {
     "title": "Dragon Ball",
-    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c9/DB_Tank%C5%8Dbon.png",
-    "episodes": [...]
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI4Y2Y4N2EtYzM0NC00MmNiLWI3ZmEtZTU5YjY5YjM3YjZmXkEyXkFqcGc@._V1_.jpg",
+    "episodes": [
+      {
+        "title": "001 - El Secreto De La Esfera Del Dragón",
+        "url": "https://dn600305.us.archive.org/0/items/dragon-ball-Serie-Completa-1080p/001%20El%20Secreto%20De%20La%20Esfera%20Del%20Drag%C3%B3n.mp4"
+      }
+    ]
   }
 ]
