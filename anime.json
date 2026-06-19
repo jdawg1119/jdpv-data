@@ -1,10 +1,10 @@
 [
   {
-    "title": "Dragon Ball",
+    "title": "Prueba",
     "episodes": [
       {
-        "title": "001 - El secreto de la esfera del dragón",
-        "url": "https://dn600305.us.archive.org/items/dragon-ball-Serie-Completa-1080p/001%20El%20Secreto%20De%20La%20Esfera%20Del%20Drag%C3%B3n.mp4"
+        "title": "Big Buck Bunny",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
       }
     ]
   }
