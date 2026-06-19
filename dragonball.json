@@ -1,18 +1,7 @@
 [
   {
-    "title": "001 - El Secreto De La Esfera Del Dragón",
-    "url": "https://dn600305.us.archive.org/0/items/dragon-ball-Serie-Completa-1080p/001%20El%20Secreto%20De%20La%20Esfera%20Del%20Drag%C3%B3n.mp4"
-  },
-  {
-    "title": "002 - La Búsqueda Del Emperador",
-    "url": "https://dn600305.us.archive.org/0/items/dragon-ball-Serie-Completa-1080p/002%20La%20B%C3%BAsqueda%20Del%20Emperador.mp4"
-  },
-  {
-    "title": "003 - La Nube Dorada De Roshi",
-    "url": "https://dn600305.us.archive.org/0/items/dragon-ball-Serie-Completa-1080p/003%20La%20Nube%20Dorada%20De%20Roshi.mp4"
-  },
-  {
-    "title": "004 - Uolon, El Secuestrador De Niñas",
-    "url": "https://dn600305.us.archive.org/0/items/dragon-ball-Serie-Completa-1080p/004%20Uolon,%20El%20Secuestrador%20De%20Ni%C3%B1as.mp4"
+    "title": "Dragon Ball",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c9/DB_Tank%C5%8Dbon.png",
+    "episodes": [...]
   }
 ]
