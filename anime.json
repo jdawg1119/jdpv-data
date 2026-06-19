@@ -3,8 +3,8 @@
     "title": "Prueba",
     "episodes": [
       {
-        "title": "Big Buck Bunny",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        "title": "Video Test",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
       }
     ]
   }
