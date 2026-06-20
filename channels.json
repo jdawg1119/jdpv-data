@@ -561,13 +561,13 @@
     "title": "FIFA+",
     "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "logo": "",
-    "category": "General"
+    "category": "deporte"
   },
   {
     "title": "TyC Sports",
     "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
     "logo": "",
-    "category": "General"
+    "category": "deporte"
   },
   {
     "title": "ESPN Premium Argentina",
@@ -579,7 +579,7 @@
     "title": "TNT Sport Argentina",
     "url": "http://38.199.4.105:9999/play/a0hy/index.m3u8",
     "logo": "",
-    "category": "Noticias"
+    "category": "deporte"
   },
   {
     "title": "Discovery Home & Health / HGTV 🥘🏠",
@@ -633,7 +633,7 @@
     "title": "Xtrema Cine Clasico",
     "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
     "logo": "",
-    "category": "Peliculas"
+    "category": "General"
   },
   {
     "title": "Xtrema Terror",
@@ -649,7 +649,7 @@
   },
   {
     "title": "Disney Jr. Latin America",
-    "url": "http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBMAGICKIDS_",
     "logo": "",
     "category": "Infantil"
   },
@@ -759,7 +759,7 @@
     "title": "DIRECTV SPORTS",
     "url": "http://190.108.93.180:8000/play/a054/index.m3u8",
     "logo": "",
-    "category": "General"
+    "category": "Deporte"
   },
   {
     "title": "History Channel",
@@ -811,13 +811,13 @@
   },
   {
     "title": "Un jefe en pañales 1",
-    "url": "http://ia802200.us.archive.org/26/items/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales.mp4",
+    "url": "http://ia802200.us.archive.org/26/items/Pelicula-wii/Un%20Jefe%20en%20Pa%C3%B1ales.mp4",
     "logo": "",
     "category": "General"
   },
   {
     "title": "Un jefe en pañales 2 - Negocios de familia",
-    "url": "http://ia802200.us.archive.org/26/items/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales%202%20-%20Negocios%20de%20Familia.mp4",
+    "url": "http://ia802200.us.archive.org/26/items/Pelicula-wii/Un%20Jefe%20en%20Pa%C3%B1ales%202%20-%20Negocios%20de%20Familia.mp4",
     "logo": "",
     "category": "General"
   },
@@ -1016,6 +1016,1344 @@
   {
     "title": "Música maestro/Make Mine Music (1946)",
     "url": "https://archive.org/download/mu_20230626/mu.mp4",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Fox Sports",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "TNT Sports",
+    "url": "http://181.78.201.70:8000/play/a0tx/index.m3u8",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "ESPN 1 ✅",
+    "url": "http://181.205.130.194:4000/play/a07j",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "ESPN 6 - Opción 2 ✅",
+    "url": "http://181.205.130.194:4000/play/a07t",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "ESPN 7 mx ✅",
+    "url": "http://181.205.130.194:4000/play/a07s",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "ESPN 2 ✅",
+    "url": "http://181.78.23.26:45000/play/a00m",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "ESPN CO ✅",
+    "url": "http://181.78.23.26:45000/play/a02p",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "PBS KIDS (Inglés)",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "PLUTO TV KIDS (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "PLUTO TV KIDS",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "ACTION KIDS (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80606d41-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7fc0a51-2f1d-448b-8546-5071095e4b90&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "ANIMAKIDS (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "LOGOS TV KIDS",
+    "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Gospel Cartoon (360p)",
+    "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Nickelodeon Kids' Choice Awards (2024)",
+    "url": "https://archive.org/download/nick-3l-0d-30n-k-1-choi-3-awards-2024/Nick3l0d30n%20K1Choi3%20Awards%202024.mp4",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Dios Te Ve Kids (720p)",
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Jr. Latin America South",
+    "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Extrema Kids TV [Not 24/7]",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Logos TV Kids (720p) [Not 24/7]",
+    "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Peniel Kids & Young (480p)",
+    "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Xtrema Cartoons",
+    "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "BeJoy.Kids",
+    "url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "EBS Kids Ⓢ",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Kids – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Kids Ukraine – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Gospel Cartoon | BR",
+    "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Kuriakos Kids | BR",
+    "url": "https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8?PlaylistM3UCL",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "3ABN Kids",
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Biznet Kids (480p)",
+    "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Forever Kids",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "13 Kids (1080p)",
+    "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "90's Kids",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Aghapy Kids (1080p)",
+    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "KidsFlix (1080p) [Not 24/7]",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Kuriakos Kids (1080p)",
+    "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "LEGO Kids TV",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Moonbug Kids (1080p)",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "031. 164_Cartoon Network ✅ ✅",
+    "url": "http://87.120.179.187:8000/play/a011",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "163_Disney Channel ✅",
+    "url": "http://87.120.179.187:8000/play/a010",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "AR: Ch4teen Kids HD ✅",
+    "url": "http://ch14.tv/live/ch4teenkids/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Discovery Kids - Opción 2 ✅",
+    "url": "http://181.78.23.26:45000/play/a00h",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Channel ✅",
+    "url": "http://181.78.23.26:45000/play/a01b",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Jr ✅",
+    "url": "http://181.78.23.26:45000/play/a00k",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "BLUE LOCK THE MOVIE -EPISODE NAGI- (2024)",
+    "url": "https://github.com/tokio14-dot/Q.5825/releases/download/Q.563737/4914689537.mp4",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "New Initial D the Movie - Legend 1: Awakening (2014)",
+    "url": "https://archive.org/download/new-initial-d-movie-legend-1-kakusei/New%20Initial%20D%20Movie%20Legend%201%20Kakusei%20.mp4",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "TOON GOOGLES MOVIES (Inglés)",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=285&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616163335&id=264522&ip=92.38.148.59&override_expiration=1500&sign=z936zg2CSi4j4KGtT351mCqyum%2BVJv0Jj0HE4Pu92jQ%3D",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE 2",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ESTELAR 2",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE PREMIERE",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ESTELAR",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE CLÁSICO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ESTELAR 3",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ESTELAR (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a14a1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0810bdb-3103-4d41-9950-68244def5c07&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE FAMILIA",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ACCIÓN (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ACCIÓN",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ADRENALINA",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE TERROR",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE TERROR 2",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE SUSPENSO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE COMEDIA",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE COMEDIA (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE JAJA!!",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE XOXO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ROMÁNTICO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE ROMANCE",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE DRAMA",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE LATINO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CINE DRAMA (España)",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MY TIME MOVIES 2",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MY TIME MOVIES",
+    "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Gospel Movie TV (360p)",
+    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Grand Cinema",
+    "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Aurora Media Films (720p)",
+    "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Sony (720p)",
+    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine comedia",
+    "url": "https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine terror",
+    "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine adrenalina",
+    "url": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Premiere",
+    "url": "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Memorias TV Film (720p) [Geo-blocked]",
+    "url": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MyTime Movie Network Mexico (720p)",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MyTime movie network Spain (1080p)",
+    "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Rakuten TV Top Movies Spain (1080p)",
+    "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Rakuten TV Comedy Movies Spain (1080p)",
+    "url": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Rakuten TV Action Movies Spain (1080p)",
+    "url": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Rakuten TV Family Movies Spain (1080p)",
+    "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Rakuten TV Drama Movies Spain (1080p)",
+    "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Zylo Cine Western (1080p)",
+    "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Zylo Cine Friki (1080p)",
+    "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Pluto TV Crime Movies",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Black Cinema",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "70s Cinema",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Paramount Movie Channel",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Classic Movies",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Pluto TV Cult Films",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film Azione – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film Thriller – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film Classici – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cinema Italiano – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film Romantici – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film Commedia – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film Drama – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Classic Movies Channel",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine AR",
+    "url": "http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Movies for Gamers",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Canal Cine Dios (480p)",
+    "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine ¡¡jaja!!",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Adrenalina",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Clásico",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine XOXO",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Terror",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Classic Cinema (240p) [Not 24/7]",
+    "url": "https://bozztv.com/gusa/gusa-classiccinema/index.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cowboy Movie Channel (1080p)",
+    "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "DiscoverFilm",
+    "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "EBS Cinema (720p)",
+    "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Filmgold",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1db1d4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4a90c28a-e616-4ce8-bd9d-18ee8820eede",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Español",
+    "url": "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=c82db3c0-ffac-4af4-abd2-5d1d3ec8f4ac&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "24 Hour Free Movies (720p)",
+    "url": "https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "ABN Bible Movies (720p)",
+    "url": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "CS Film (720p)",
+    "url": "https://live.cdn.joj.sk/live/andromeda/cs_film-720.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Hallmark Movies & More",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "iFilm 2",
+    "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "iFilm English",
+    "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "iFilm Arabic",
+    "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "iFilm Persian",
+    "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "JOJ Cinema (720p)",
+    "url": "https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Kids Movie Club",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Kuriakos Cine (1080p)",
+    "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Meta Film TV (1080p)",
+    "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Mister Rogers' Neighborhood",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=18721deb-08cc-4fc5-b3dd-89d418b508de",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Movie Favorites By Lifetime",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MOVIEDOME",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Moviepilot TV mit Pluto TV",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=78e36af2-8f00-409e-9fb6-605436ac888c",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Movies on Verizon",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b6350812-05fd-4d36-ad04-51b5df6a9ed0",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MovieSphere by Lionsgate",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MovieBox (1080p)",
+    "url": "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MyTime Movie Network Brazil (720p)",
+    "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MyTime Movie Network",
+    "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "MyTime Movie Network (1080p)",
+    "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Mytime Movies (1080p)",
+    "url": "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "108_bTV Cinema HD ✅",
+    "url": "http://87.120.179.187:8000/play/a00s",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "126_Filmbox ✅",
+    "url": "http://87.120.179.187:8000/play/a021",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cinecanal - Opción 2 ✅",
+    "url": "http://181.205.130.194:4000/play/a06e",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cinecanal ✅",
+    "url": "http://181.78.23.26:45000/play/a006",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film&Co ✅",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "RUNTIME CINE ESPANTO ✅",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "RUNTIME CINE Y SERIES ✅",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "FilmRise Hot Ones (720p)",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "FilmRise Sci-Fi",
+    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.content_livestream=0&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=8b9b230b-1e85-4dbd-a09b-4e2e5a3bc24c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=filmrise-sci-fi-spa-rakutentv&ads.xumo_streamId=88883026",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "30A TV Classic Movies",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Bastardos sin gloria (2009)",
+    "url": "https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Trace Sport Stars (Australia) (1080p)",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Videostar TV Lombardia",
+    "url": "http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "PLUTO TV TEEN STARS",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "SERIES",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "SERIES 2",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "SERIES 3",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2616-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cab4396-5ed7-45d4-8608-8045b2eae51f&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "SERIES COMEDIA",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "SERIES RETRO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "SERIES LATINAS",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "PLUTO TV SERIES RETRO",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=db5bac6c-046f-43a7-9933-a5a040378960&userId=&serverSideAds=true",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Goldstar TV",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a93-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=75107b1a-6063-4c0b-ba4a-37ea8ecf5809",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "La razón de estar contigo 2016",
+    "url": "https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star Trek: Sección 31 (2025)",
+    "url": "https://archive.org/download/bflixelys-1um/BFLIXStar1Trek1Section31.mp4",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "13 Teleseries (720p)",
+    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Memorias TV Series (720p) [Geo-blocked]",
+    "url": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Starz (1080p)",
+    "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "TVE Star (576p)",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "TVE Star HD (1080p)",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "AzStarTV",
+    "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Óčko Star Ⓢ",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star Central Greece",
+    "url": "https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Start",
+    "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Video Star Tv Sicilia",
+    "url": "https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star Trek: The Original Series – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Super! Star – Pluto TV",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "13 Teleseries | CL",
+    "url": "https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star Chequia CZ",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "AVA Series (720p)",
+    "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "CRIBS : MAISONS DE STAR",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f95-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef9cbc32-fe18-4548-b776-ce85f69ae4aa",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star Channel Finland",
+    "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Hmong Star TV (720p) [Not 24/7]",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Little Stars Universe",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "la razón de estar contigo",
+    "url": "https://archive.org/download/la-razon-de-estar-contig-22dwe-43345454212/La%20raz%C3%B3n%20de%20estar%20contig%2022dwe43345454212.mp4",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Starchaser: La leyenda de Orin (1985)",
+    "url": "https://archive.org/download/starchaser-1985-castellano/Starchaser%20%281985%29%20%5BCastellano%5D.mp4",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "125_Star Crime ✅",
+    "url": "http://87.120.179.187:8000/play/a00r",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "123_Star Channel ✅",
+    "url": "http://87.120.179.187:8000/play/a013",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "124_Star Life ✅",
+    "url": "http://87.120.179.187:8000/play/a00q",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "STAR CHANNEL - Opción 2 ✅",
+    "url": "http://181.78.23.26:45000/play/a008",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "No estar嫳 sola (2022)",
+    "url": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2Fno%20estaras%20sola.mp4",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star International",
+    "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Star",
+    "url": "https://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Fox Sports 2",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30345",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "Espn MX",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30346",
+    "logo": "",
+    "category": "Deportes"
+  },
+  {
+    "title": "ABC Kids ✅",
+    "url": "https://c.mjh.nz/abc-kids.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Junior",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30315",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Channel",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30316",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney XD",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30319",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Nat Geo Kids",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30753",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Fox Premium Movies",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30419",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Fox Premium Cinema",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30420",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cinecanal",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30423",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cinemax",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30431",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "HBO Family",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30435",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "HBO",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30436",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "HBO 2",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30437",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "HBO Plus",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30438",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "HBO Signature",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30439",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Dinamita",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30446",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Cine Latino",
+    "url": "http://181.78.17.52:8000/play/a0s4/index.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "FX Movies",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30665",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Film & Arts",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/31997",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "13 Teleseries",
+    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "TNT Series",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30416",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Fox Premium Series",
+    "url": "http://rayito-tv.xyz:41001/elliot/elliot/30417",
+    "logo": "",
+    "category": "Series"
+  },
+  {
+    "title": "Canal 2 Mar del Plata",
+    "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Canal 3 Pinamar",
+    "url": "http://intelincloud01.com.ar/hls/cn3/index.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Canal 4 San Juan",
+    "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Canal 50 Morteros",
+    "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Película 2",
+    "url": "https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA2_",
+    "logo": "",
+    "category": "General"
+  },
+  {
+    "title": "Película 3",
+    "url": "https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA3_",
     "logo": "",
     "category": "General"
   }
