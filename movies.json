@@ -1,42 +1,8 @@
 [
   {
     "title": "Deadpool & Wolverine",
-    "description": "Acción y comedia",
+    "description": "Marvel",
     "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "tmdbId": 786892,
-    "year": "2024",
-    "genre": "Acción"
-  },
-  {
-    "title": "Furiosa",
-    "description": "Mad Max Saga",
-    "poster": "https://image.tmdb.org/t/p/w500",
-    "tmdbId": 786892,
-    "year": "2024",
-    "genre": "Acción"
-  },
-  {
-    "title": "John Wick 4",
-    "description": "Acción",
-    "poster": "https://image.tmdb.org/t/p/w500",
-    "tmdbId": 603692,
-    "year": "2023",
-    "genre": "Acción"
-  },
-  {
-    "title": "The Equalizer 3",
-    "description": "Acción",
-    "poster": "https://image.tmdb.org/t/p/w500",
-    "tmdbId": 926393,
-    "year": "2023",
-    "genre": "Acción"
-  },
-  {
-    "title": "Nobody",
-    "description": "Acción",
-    "poster": "https://image.tmdb.org/t/p/w500",
-    "tmdbId": 615457,
-    "year": "2021",
-    "genre": "Acción"
+    "tmdbId": 533535
   }
 ]
