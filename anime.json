@@ -1,10 +1,42 @@
 [
   {
-    "title": "Prueba Anime",
-    "description": "Prueba de funcionamiento",
-    "poster": "https://via.placeholder.com/300x450",
-    "videoUrl": "https://archive.org/download/TU_VIDEO.mp4",
-    "year": "2026",
+    "title": "Naruto Shippuden - Episodio 1",
+    "description": "Anime",
+    "poster": "https://via.placeholder.com/300x450.png?text=Naruto+1",
+    "videoUrl": "https://archive.org/download/naruto-shippuden-lat/Naruto%20Shippuden%20Lat%2001.mp4",
+    "year": "2007",
+    "genre": "Anime"
+  },
+  {
+    "title": "Naruto Shippuden - Episodio 2",
+    "description": "Anime",
+    "poster": "https://via.placeholder.com/300x450.png?text=Naruto+2",
+    "videoUrl": "https://archive.org/download/naruto-shippuden-lat/Naruto%20Shippuden%20Lat%2002.mp4",
+    "year": "2007",
+    "genre": "Anime"
+  },
+  {
+    "title": "Naruto Shippuden - Episodio 3",
+    "description": "Anime",
+    "poster": "https://via.placeholder.com/300x450.png?text=Naruto+3",
+    "videoUrl": "https://archive.org/download/naruto-shippuden-lat/Naruto%20Shippuden%20Lat%2003.mp4",
+    "year": "2007",
+    "genre": "Anime"
+  },
+  {
+    "title": "Naruto Shippuden - Episodio 4",
+    "description": "Anime",
+    "poster": "https://via.placeholder.com/300x450.png?text=Naruto+4",
+    "videoUrl": "https://archive.org/download/naruto-shippuden-lat/Naruto%20Shippuden%20Lat%2004.mp4",
+    "year": "2007",
+    "genre": "Anime"
+  },
+  {
+    "title": "Naruto Shippuden - Episodio 5",
+    "description": "Anime",
+    "poster": "https://via.placeholder.com/300x450.png?text=Naruto+5",
+    "videoUrl": "https://archive.org/download/naruto-shippuden-lat/Naruto%20Shippuden%20Lat%2005.mp4",
+    "year": "2007",
     "genre": "Anime"
   }
 ]
