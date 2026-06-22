@@ -1,26 +1,10 @@
 [
   {
-    "title": "Naruto Shippuden - Episodio 1",
-    "description": "Primer episodio de Naruto Shippuden.",
-    "poster": "https://via.placeholder.com/300x450.png?text=Naruto",
-    "videoUrl": "PEGA_AQUI_EL_LINK_MP4_DE_ARCHIVE_ORG",
-    "year": "2007",
-    "genre": "Anime"
-  },
-  {
-    "title": "Naruto Shippuden - Episodio 2",
-    "description": "Segundo episodio de Naruto Shippuden.",
-    "poster": "https://via.placeholder.com/300x450.png?text=Naruto",
-    "videoUrl": "PEGA_AQUI_EL_LINK_MP4_DE_ARCHIVE_ORG",
-    "year": "2007",
-    "genre": "Anime"
-  },
-  {
-    "title": "Naruto Shippuden - Episodio 3",
-    "description": "Tercer episodio de Naruto Shippuden.",
-    "poster": "https://via.placeholder.com/300x450.png?text=Naruto",
-    "videoUrl": "PEGA_AQUI_EL_LINK_MP4_DE_ARCHIVE_ORG",
-    "year": "2007",
+    "title": "Prueba Anime",
+    "description": "Prueba de funcionamiento",
+    "poster": "https://via.placeholder.com/300x450",
+    "videoUrl": "https://archive.org/download/TU_VIDEO.mp4",
+    "year": "2026",
     "genre": "Anime"
   }
 ]
