@@ -1,9 +1,9 @@
 [
   {
-    "title": "Deadpool & Wolverine",
-    "description": "Película de prueba VidLink",
+    "title": "Prueba VidLink",
+    "description": "Test",
     "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "tmdbId": 533535,
+    "tmdbId": 786892,
     "year": "2024",
     "genre": "Acción"
   }
