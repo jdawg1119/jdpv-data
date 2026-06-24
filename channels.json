@@ -1924,5 +1924,11 @@
     "url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8",
     "logo": "",
     "category": "General"
-  }
+  },
+  {
+  "title": "TyC Sports 2",
+  "url": "http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8",
+  "logo": "",
+  "category": "Deportes"
+}
 ]
