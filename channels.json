@@ -1930,5 +1930,79 @@
   "url": "http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8",
   "logo": "",
   "category": "Deportes"
-}
+},
+
+
+  {
+    "title": "Bob Esponja",
+    "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Los Simpson 24h",
+    "url": "http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "El Chavo del 8",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Cartoon Network",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Cartoonito",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Channel",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Disney Junior",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Nickelodeon",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Nick Jr.",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Discovery Kids",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Tooncast",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  },
+  {
+    "title": "Baby TV",
+    "url": "",
+    "logo": "",
+    "category": "Infantil"
+  }
 ]
