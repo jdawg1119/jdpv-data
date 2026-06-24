@@ -1940,10 +1940,12 @@
     "category": "General"
   },
   {
-    "title": "Los Simpson 24h",
-    "url": "http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480.m3u8",
-    "logo": "",
-    "category": "General"
+   
+  "title": "Los Simpson 24h",
+  "url": "https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w1406947678.m3u8",
+  "logo": "",
+  "category": "General"
+
   },
   {
     "title": "El Chavo del 8",
