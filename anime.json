@@ -35,5 +35,41 @@
       "poster": "https://myanimelist.net/anime/20/Naruto",
       "vidlinkUrl": "https://vidlink.pro/anime/20/1/sub"
     }
-  ]
-}
+  [
+  {
+    "title": "Naruto",
+    "description": "Naruto Uzumaki, un adolescente ninja travieso, lucha por ganarse el reconocimiento de los demás mientras sueña con convertirse en Hokage, el líder del pueblo y el ninja más poderoso de todos.",
+    "category": "anime",
+    "tmdbId": "46260",
+    "poster": "https://image.tmdb.org/t/p/w500/xppeysfvDKVx775MFuH8Z9Ex9EU.jpg"
+  },
+  {
+    "title": "Naruto: Shippuden",
+    "description": "Después de dos años y medio de entrenamiento, Naruto regresa a la aldea de Konoha dispuesto a cumplir sus ambiciones. Sin embargo, la organización Akatsuki y enemigos aún más peligrosos se interponen en su camino, mientras la búsqueda de Sasuke continúa.",
+    "category": "anime",
+    "tmdbId": "31910",
+    "poster": "https://image.tmdb.org/t/p/w500/zAYRe2bJxpnMSdRNbSMGw9o4Gv1.jpg"
+  },
+  {
+    "title": "Boruto: Naruto Next Generations",
+    "description": "La vida de los shinobi comienza a cambiar. Boruto Uzumaki, hijo del Séptimo Hokage Naruto Uzumaki, se ha inscrito en la Academia Ninja para aprender las artes del ninja. Ahora, mientras una serie de misteriosos eventos se despliegan, ¡la historia de Boruto está a punto de comenzar!",
+    "category": "anime",
+    "tmdbId": "70881",
+    "poster": "https://image.tmdb.org/t/p/w500/nGSHiQBdcG5pRKOQtT5nRk1ZXKC.jpg"
+  },
+  {
+    "title": "My Hero Academia",
+    "description": "En un mundo donde el 80% de la población posee algún tipo de superpoder llamado Quirk, Izuku Midoriya nació sin ninguno. Aun así, sueña con convertirse en un héroe. Todo cambia cuando conoce al héroe número uno, All Might, quien le otorga su poder y le abre las puertas de la U.A. High School, la academia de héroes más prestigiosa del mundo.",
+    "category": "anime",
+    "tmdbId": "65930",
+    "poster": "https://image.tmdb.org/t/p/w500/ivOLM47yJt90P19RH1NvJrAJz9F.jpg"
+  },
+  {
+    "title": "Attack on Titan",
+    "description": "Hace cien años, los últimos restos de la humanidad se vieron obligados a refugiarse tras los muros de una ciudad fortificada para escapar de los Titanes, criaturas humanoides gigantes que los devoraban. Solo los miembros del Cuerpo de Exploración se atrevían a salir al mundo exterior, aunque pocos regresaban con vida. Un día, la paz se rompe cuando un Titán Colosal derriba el muro exterior, poniendo a la humanidad al borde de la extinción.",
+    "category": "anime",
+    "tmdbId": "1429",
+    "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  }
+]
+
