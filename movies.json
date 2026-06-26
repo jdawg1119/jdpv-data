@@ -19,5 +19,18 @@
     "year": "2024",
     "genre": "Acción",
     "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
-  }
+  },
+  {
+  "id": "1228710",
+  "title": "Película de prueba",
+  "description": "Prueba AutoEmbed",
+  "poster": "https://image.tmdb.org/t/p/w500/POSTER.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/BACKDROP.jpg",
+  "year": "2025",
+  "genre": "Acción",
+  "rating": 0,
+  "provider": "autoembed",
+  "tmdbId": 1228710,
+  "type": "movie"
+}
 ]
