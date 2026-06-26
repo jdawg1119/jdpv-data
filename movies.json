@@ -1,82 +1,11 @@
-[
-  {
-    "title": "Inception",
-    "description": "Un ladrón especializado en el robo de secretos del subconsciente a través de los sueños recibe la misión de implantar una idea en la mente de un objetivo.",
-    "category": "Ciencia Ficción",
-    "tmdbId": 27205,
-    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/27205"
-  },
-  {
-    "title": "The Dark Knight",
-    "description": "Batman se enfrenta al Joker, un criminal anárquico que sumerge Gotham City en el caos.",
-    "category": "Acción",
-    "tmdbId": 155,
-    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/155"
-  },
-  {
-    "title": "Interstellar",
-    "description": "Un grupo de exploradores viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
-    "category": "Ciencia Ficción",
-    "tmdbId": 157336,
-    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/157336"
-  },
-  {
-    "title": "Avengers: Endgame",
-    "description": "Los Vengadores se reúnen una última vez para revertir las acciones de Thanos.",
-    "category": "Acción",
-    "tmdbId": 299534,
-    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/299534"
-  },
-  {
-    "title": "Fight Club",
-    "description": "Un oficinista insomne y un fabricante de jabón forman un club de lucha clandestino.",
-    "category": "Drama",
-    "tmdbId": 550,
-    "poster": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/550"
-  },
-  {
-    "title": "Pulp Fiction",
-    "description": "Las vidas de varios personajes se entrelazan en historias de violencia y redención.",
-    "category": "Drama",
-    "tmdbId": 680,
-    "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/680"
-  },
-  {
-    "title": "The Matrix",
-    "description": "Un programador descubre que la realidad es una simulación creada por máquinas.",
-    "category": "Ciencia Ficción",
-    "tmdbId": 603,
-    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/603"
-  },
-  {
-    "title": "Parasite",
-    "description": "Una familia pobre se infiltra en la vida de una familia rica.",
-    "category": "Drama",
-    "tmdbId": 496243,
-    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/496243"
-  },
-  {
-    "title": "The Shawshank Redemption",
-    "description": "Un hombre condenado injustamente encuentra esperanza en prisión.",
-    "category": "Drama",
-    "tmdbId": 278,
-    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/278"
-  },
-  {
-    "title": "Joker",
-    "description": "Arthur Fleck desciende lentamente hacia la locura.",
-    "category": "Drama",
-    "tmdbId": 475557,
-    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-    "vidlinkUrl": "https://vidlink.pro/movie/475557"
-  }
-]
+{
+  "title": "Deadpool & Wolverine",
+  "description": "Deadpool une fuerzas con Wolverine en una aventura llena de acción, humor y viajes entre universos.",
+  "category": "movie",
+  "tmdbId": 533535,
+  "providers": [
+    "autoembed",
+    "vidsrc",
+    "vidlink"
+  ]
+}
