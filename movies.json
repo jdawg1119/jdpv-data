@@ -1,36 +1,32 @@
 [
   {
-    "title": "Deadpool",
-    "tmdbId": 293660,
-    "year": "2016",
-    "genre": "Acción",
-    "poster": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg"
+    "title": "Lilo & Stitch",
+    "tmdbId": 552524,
+    "provider": "autoembed",
+    "type": "movie"
   },
   {
-    "title": "Deadpool 2",
-    "tmdbId": 383498,
-    "year": "2018",
-    "genre": "Acción",
-    "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg"
+    "title": "A Minecraft Movie",
+    "tmdbId": 950387,
+    "provider": "autoembed",
+    "type": "movie"
   },
   {
-    "title": "Deadpool & Wolverine",
-    "tmdbId": 533535,
-    "year": "2024",
-    "genre": "Acción",
-    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+    "title": "Captain America: Brave New World",
+    "tmdbId": 822119,
+    "provider": "autoembed",
+    "type": "movie"
   },
   {
-  "id": "1228710",
-  "title": "Película de prueba",
-  "description": "Prueba AutoEmbed",
-  "poster": "https://image.tmdb.org/t/p/w500/POSTER.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/BACKDROP.jpg",
-  "year": "2025",
-  "genre": "Acción",
-  "rating": 0,
-  "provider": "autoembed",
-  "tmdbId": 1228710,
-  "type": "movie"
-}
+    "title": "Moana 2",
+    "tmdbId": 1241982,
+    "provider": "autoembed",
+    "type": "movie"
+  },
+  {
+    "title": "Sonic the Hedgehog 3",
+    "tmdbId": 939243,
+    "provider": "autoembed",
+    "type": "movie"
+  }
 ]
