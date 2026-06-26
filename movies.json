@@ -1,8 +1,10 @@
 {
   "title": "Deadpool & Wolverine",
-  "description": "Deadpool une fuerzas con Wolverine en una aventura llena de acción, humor y viajes entre universos.",
-  "category": "movie",
+  "description": "Deadpool une fuerzas con Wolverine para salvar su universo en una aventura llena de acción, humor y viajes entre realidades.",
+  "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
   "tmdbId": 533535,
+  "category": "Acción",
+  "year": "2024",
   "providers": [
     "autoembed",
     "vidsrc",
