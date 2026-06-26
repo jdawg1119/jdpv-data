@@ -1,7 +1,23 @@
-{
-  "title": "Deadpool & Wolverine",
-  "tmdbId": 533535,
-  "year": "2024",
-  "genre": "Acción",
-  "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
-}
+[
+  {
+    "title": "Deadpool",
+    "tmdbId": 293660,
+    "year": "2016",
+    "genre": "Acción",
+    "poster": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg"
+  },
+  {
+    "title": "Deadpool 2",
+    "tmdbId": 383498,
+    "year": "2018",
+    "genre": "Acción",
+    "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg"
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "tmdbId": 533535,
+    "year": "2024",
+    "genre": "Acción",
+    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+  }
+]
